@@ -1,7 +1,3 @@
-#mainNav{
-    
-}
-
 #about{
     background-color: #222;
 }
@@ -67,3 +63,6 @@ footer{
     color: white;
 }
 
+#mainNav a.navbar-brand {
+    font-size:medium;
+  }
