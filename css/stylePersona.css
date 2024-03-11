@@ -66,3 +66,8 @@ footer{
 #mainNav a.navbar-brand {
     font-size:medium;
   }
+
+  #location{
+    background-color: #222;
+    color: white;
+  }
